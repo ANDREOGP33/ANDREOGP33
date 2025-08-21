@@ -32,8 +32,8 @@ Currently, I'm focused on:
 ## 🌐 Connect With Me
 
 - **GitHub**: [ANDREOGP33](https://github.com/ANDREOGP33)  
-- **LinkedIn**: *(add your profile link here)*  
-- **Email**: *(add your professional email if you want)*
+- **LinkedIn**: [André Oliveira](https://www.linkedin.com/in/andre-oliveira-gasparoni/)  
+- **Email**: andregasparoni690@gmail.com
 
 ---
 
